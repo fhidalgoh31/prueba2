@@ -16,3 +16,4 @@ for i in range(1,10):
     print(f"({i},{j}) {A}")   # <---- Aquí!!
 
 print(A)
+print("burbuja correcto")
