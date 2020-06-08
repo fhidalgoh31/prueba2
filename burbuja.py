@@ -17,4 +17,4 @@ for i in range(1,10):
 
 print(A)
 print("burbuja correcto")
-print("print en PC2_gitonline")
+print("con parámetro")
